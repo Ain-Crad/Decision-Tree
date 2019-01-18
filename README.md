@@ -5,8 +5,8 @@
 文件目录：   
 * encode.txt：对各个属性的编码说明   
 * ID3.cpp：源代码   
-* TestData.txt：测试数据   
 * TrainData.txt：训练数据
+* TestData.txt：测试数据   
 
 ### 编码
 把每一种属性都用数字来表示。
